@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Love.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3567">
+            <state relative-caret-position="2610">
               <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
             </state>
           </provider>
@@ -25,13 +25,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+            <state relative-caret-position="464">
+              <caret line="51" column="65" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#5984#6325#0" />
+                <element signature="e#6612#7029#0" />
+                <element signature="e#7100#7242#0" />
+                <element signature="e#7531#8066#0" />
+                <element signature="e#8137#8383#0" />
+                <element signature="e#8454#8914#0" />
+                <element signature="e#8982#9205#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>say</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,11 +60,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="745" />
-    <option name="y" value="40" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-323" />
+    <option name="y" value="345" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,12 +106,12 @@
       <option name="presentableId" value="Default" />
       <updated>1581688439126</updated>
       <workItem from="1581688440594" duration="471000" />
-      <workItem from="1659338190373" duration="1714000" />
+      <workItem from="1659338190373" duration="2727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2185000" />
+    <option name="totallyTimeSpent" value="3198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -130,15 +146,26 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Love.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3567">
+        <state relative-caret-position="2610">
           <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="464">
+          <caret line="51" column="65" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#5984#6325#0" />
+            <element signature="e#6612#7029#0" />
+            <element signature="e#7100#7242#0" />
+            <element signature="e#7531#8066#0" />
+            <element signature="e#8137#8383#0" />
+            <element signature="e#8454#8914#0" />
+            <element signature="e#8982#9205#0" />
+          </folding>
         </state>
       </provider>
     </entry>
